@@ -8,6 +8,7 @@ The goal of the project is to answer a set of questions about the store's busine
 ✤ Tool Used:
 PostgreSQL
 PgAdmin4
+
 ✤ Tables Used:
 album
 artist
@@ -20,7 +21,9 @@ media_type
 playlist
 playlist_track
 track
+
 ✤ Queries of the Project:
+
 Q1: Who is the senior most employee based on job title?
 
 Q2: Which countries have the most Invoices?
