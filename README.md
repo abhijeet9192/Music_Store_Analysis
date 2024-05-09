@@ -6,7 +6,8 @@ The objective of the project is to gain valuable insights into the store's opera
 The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
 ✤ Tool Used:
-MySQL
+PostgreSQL
+PgAdmin4
 ✤ Tables Used:
 album
 artist
